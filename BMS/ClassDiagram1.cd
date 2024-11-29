@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BMS.Account">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQCAAAgAAIACAAAAAIAQAFBAAAAAACAgAAAAA=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.Bank">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIIAAgCAQQAAAQCAsAAQBAAIABAAAAAAAAhAIAkA=</HashCode>
+      <FileName>Bank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.Credit">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Credit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.Debit">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAQAAAAAAABAAAAAAAAgAAAAA=</HashCode>
+      <FileName>‏‏Debit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.DOB">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkQAAAAAAAAAAAACQAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DOB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.IDGenerator">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAQAAAAQAAAgA=</HashCode>
+      <FileName>IDGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.Program">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.Savings">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Savings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

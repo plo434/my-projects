@@ -1,0 +1,24 @@
+D:\مجلد جديد\BMS\BMS\bin\Release\net7.0\BMS.deps.json
+D:\مجلد جديد\BMS\BMS\bin\Release\net7.0\BMS.dll
+D:\مجلد جديد\BMS\BMS\bin\Release\net7.0\BMS.pdb
+D:\مجلد جديد\BMS\BMS\obj\Release\net7.0\BMS.csproj.AssemblyReference.cache
+D:\مجلد جديد\BMS\BMS\obj\Release\net7.0\BMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\مجلد جديد\BMS\BMS\obj\Release\net7.0\BMS.AssemblyInfoInputs.cache
+D:\مجلد جديد\BMS\BMS\obj\Release\net7.0\BMS.AssemblyInfo.cs
+D:\مجلد جديد\BMS\BMS\obj\Release\net7.0\BMS.csproj.CoreCompileInputs.cache
+D:\مجلد جديد\BMS\BMS\obj\Release\net7.0\BMS.dll
+D:\مجلد جديد\BMS\BMS\obj\Release\net7.0\refint\BMS.dll
+D:\مجلد جديد\BMS\BMS\obj\Release\net7.0\BMS.pdb
+D:\مجلد جديد\BMS\BMS\obj\Release\net7.0\ref\BMS.dll
+C:\Users\Hp\Desktop\BMS\BMS\BMS\bin\Release\net7.0\BMS.deps.json
+C:\Users\Hp\Desktop\BMS\BMS\BMS\bin\Release\net7.0\BMS.dll
+C:\Users\Hp\Desktop\BMS\BMS\BMS\bin\Release\net7.0\BMS.pdb
+C:\Users\Hp\Desktop\BMS\BMS\BMS\obj\Release\net7.0\BMS.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\BMS\BMS\BMS\obj\Release\net7.0\BMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\BMS\BMS\BMS\obj\Release\net7.0\BMS.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\BMS\BMS\BMS\obj\Release\net7.0\BMS.AssemblyInfo.cs
+C:\Users\Hp\Desktop\BMS\BMS\BMS\obj\Release\net7.0\BMS.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\BMS\BMS\BMS\obj\Release\net7.0\BMS.dll
+C:\Users\Hp\Desktop\BMS\BMS\BMS\obj\Release\net7.0\refint\BMS.dll
+C:\Users\Hp\Desktop\BMS\BMS\BMS\obj\Release\net7.0\BMS.pdb
+C:\Users\Hp\Desktop\BMS\BMS\BMS\obj\Release\net7.0\ref\BMS.dll
